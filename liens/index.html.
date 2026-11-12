@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#100d18">
+  <title>ROCKSTARMYCK - Mes réseaux</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 35px 18px;
+      min-height: 100vh;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      background: radial-gradient(ellipse at top, #482044, #17101f 55%, #09090e);
+    }
+
+    main {
+      max-width: 480px;
+      margin: auto;
+    }
+
+    .logo {
+      font-size: 55px;
+      margin: 20px auto;
+    }
+
+    h1 {
+      font-size: 34px;
+      letter-spacing: 2px;
+    }
+
+    p {
+      color: #ddd;
+      margin: 20px 0 30px;
+    }
+
+    .links {
+      display: grid;
+      gap: 13px;
+    }
+
+    a {
+      display: block;
+      padding: 17px;
+      border: 1px solid #ffffff40;
+      border-radius: 15px;
+      background: #ffffff12;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    footer {
+      margin-top: 30px;
+      color: #aaa;
+      font-size: 13px;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div class="logo">🔥</div>
+
+    <h1>ROCKSTARMYCK</h1>
+
+    <p>
+      Retrouve-moi sur tous mes réseaux !
+      Gaming, lives et bonne humeur.
+    </p>
+
+    <div class="links">
+      <a href="https://www.youtube.com/@rockstarmyck9867">▶ YouTube</a>
+      <a href="https://www.twitch.tv/rockstarmyck">🟣 Twitch</a>
+      <a href="https://www.tiktok.com/@rockstarmyck">♪ TikTok</a>
+      <a href="https://kick.com/rockstarmyck">🟢 Kick</a>
+      <a href="https://www.instagram.com/rockstarmyckxy77/">◎ Instagram</a>
+      <a href="https://x.com/tbwxy7766084">𝕏 X</a>
+      <a href="https://discord.gg/75ZEuMHGJ">💬 Discord</a>
+    </div>
+
+    <footer>
+      Merci pour la force et le soutien ❤️
+    </footer>
+  </main>
+</body>
+</html>
